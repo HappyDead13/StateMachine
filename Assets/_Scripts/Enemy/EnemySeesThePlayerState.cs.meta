@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6f88eac3def5cc5409f6dc6374492482
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - entity: {instanceID: 0}
+  - entity2: {fileID: 2433650659913792862, guid: 503daca843458d84ebb4ad05217ac292, type: 3}
+  - stateMachine: {instanceID: 0}
+  - navMashAgent: {instanceID: 0}
+  - SignalGO: {fileID: 2433650659913792862, guid: 503daca843458d84ebb4ad05217ac292, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
